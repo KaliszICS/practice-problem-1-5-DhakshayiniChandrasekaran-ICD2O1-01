@@ -1,13 +1,21 @@
-
+'''
+    Lesson: Typecasting
+    Author: Dhakshayini
+    Date Created: Sept 23, 2024
+    Date Last Modified: Sept 23, 2024
+'''
 def q1():
   #Write Assignment code here
   user = int(input("Input an integer: "))
   a = user + 3
   print(a) 
+  
   def q2():
   #Write Assignment code here
   user1 = (input("In"))
-  def q3():input("input a number: ")
+ 
+  def q3():
+  input("input a number: ")
   a = str(user1) + "4" 
   a = float(a)+2 
   #Write Assignment code here
