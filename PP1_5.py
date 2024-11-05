@@ -7,17 +7,17 @@
 def q1():
   #Write Assignment code here
   user = int(input("Input an integer: "))
-  a = user + 3
+  a = str(user) + "3"
   print(a) 
   
-  def q2():
+def q2():
   #Write Assignment code here
-  user1 = (input("In"))
- 
-  def q3():
-  input("input a number: ")
-  a = str(user1) + "4" 
-  a = float(a)+2 
+  user1 = input("Input a number: ")
+  a = str(user1) + "4"
+  a = float(a)+2
+  print(a)
+
+def q3():
   #Write Assignment code here
   num2 = input("Input a radius: ")
   num2 = float(num2)
@@ -29,6 +29,7 @@ def q4():
   user3 = float(input("Input a number: "))
   a = int(user3 * 12)
   print(a)
+
 def q5():
   #Write Assignment code here
   user4 = int(input("Input an integer: "))
